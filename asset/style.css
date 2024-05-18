@@ -166,3 +166,9 @@ img {
 .btn-brand:focus {
   background-color: var(--c-brand);
 }
+
+.btn-primary {
+  border-color: #2FB67B;
+  background-color: #2FB67B;
+}
+
