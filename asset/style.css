@@ -1,6 +1,6 @@
 /* variabel */
 :root {
-  --c-brand: #3656f8;
+  --c-brand: #2FB67B;
   --c-brand-rgb: 254, 54, 145;
   --c-dark: #303050;
   --c-body: #636383;
@@ -166,9 +166,3 @@ img {
 .btn-brand:focus {
   background-color: var(--c-brand);
 }
-
-.btn-primary {
-  border-color: #2FB67B;
-  background-color: #2FB67B;
-}
-
