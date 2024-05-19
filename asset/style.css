@@ -209,10 +209,11 @@ img {
 }
 
 .about-us-content img {
-  max-width: 80%;
+  max-width: 100%;
   height: auto;
   display: block;
   margin: 0 auto;
+  padding-top: 50px
   padding-bottom: 20px; 
 }
 
