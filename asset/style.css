@@ -170,3 +170,37 @@ img {
 .text-uppercase {
   color: #f8f9fa;
 }
+
+/* Projek */
+.sdgs {
+  overflow: hidden;
+  position: relative;
+}
+
+.sdgs .content-sdgs {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: var(--c-brand);
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sdgs img,
+.sdgs .content-sdgs {
+  transition: all 0.5s ease-in-out;
+}
+
+.sdgs:hover .content-sdgs {
+  top: 0;
+}
+.sdgs:hover img {
+  transform: translateY(-100%);
+}
+
+.text-sdgs {
+  color: white;
+}
