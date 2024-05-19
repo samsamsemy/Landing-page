@@ -220,4 +220,18 @@ img {
   padding: 10px; 
 }
 
-/* footer */
+.team-photo {
+  width: 400px;
+  height: 500px; 
+  object-fit: cover; 
+}
+
+.team-photo-container {
+  background-color: #f8f9fa; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  display: inline-block;
+}
+
+.icon-links .social-icon a i { 
+  font-size: 24px;
+}
