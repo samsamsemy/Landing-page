@@ -166,3 +166,7 @@ img {
 .btn-brand:focus {
   background-color: var(--c-brand);
 }
+
+.text-uppercase {
+  color: #f8f9fa;
+}
