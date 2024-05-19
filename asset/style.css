@@ -200,4 +200,24 @@ img {
   color: white;
 }
 
+.about-us-content {
+  padding-top: 100px; 
+}
+
+.about-us-content .row {
+  margin-bottom: 50px; 
+}
+
+.about-us-content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 20px; 
+}
+
+.sdgs .content-sdgs {
+  padding: 10px; 
+}
+
 /* footer */
