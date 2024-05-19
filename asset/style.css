@@ -1,11 +1,10 @@
 /* variabel */
 :root {
-  --c-brand: #2FB67B;
+  --c-brand: #0b8c17;
   --c-brand-rgb: 254, 54, 145;
   --c-dark: #303050;
   --c-body: #636383;
   --f-main: "Nunito Sans", sans-serif;
-  --transition: 0.2s ease-in-out;
   --shadow: 0px 15px 40px rgba(0, 0, 0, 0.1);
 }
 
@@ -167,10 +166,6 @@ img {
   background-color: var(--c-brand);
 }
 
-.text-uppercase {
-  color: #f8f9fa;
-}
-
 /* Projek */
 .sdgs {
   overflow: hidden;
@@ -204,3 +199,5 @@ img {
 .text-sdgs {
   color: white;
 }
+
+/* footer */
