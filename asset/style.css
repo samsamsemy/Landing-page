@@ -200,13 +200,8 @@ img {
   color: white;
 }
 
-.about-us {
-  padding-top: 100px;
-  margin-top: 200px;
-}
-
-.about-us-content .row {
-  margin-bottom: 10px; 
+.about-us-content {
+  margin-top: 150px;
 }
 
 .sdgs .content-sdgs {
