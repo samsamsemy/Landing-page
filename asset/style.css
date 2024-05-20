@@ -201,7 +201,8 @@ img {
 }
 
 .about-us-content {
-  padding-top: 100px; 
+  padding-top: 100px;
+  margin-top: 50px;
 }
 
 .about-us-content .row {
