@@ -227,3 +227,9 @@ img {
 .icon-links .social-icon a i { 
   font-size: 24px;
 }
+
+.upn-logo {
+    margin-right: 20px; 
+    margin-bottom: 20px; 
+    display: block; 
+}
