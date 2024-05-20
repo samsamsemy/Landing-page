@@ -208,6 +208,10 @@ img {
   padding: 10px; 
 }
 
+.team-content {
+  margin-top: 50px;
+}
+
 .team-photo {
   width: 400px;
   height: 500px; 
