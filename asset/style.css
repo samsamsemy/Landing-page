@@ -228,9 +228,33 @@ img {
   font-size: 24px;
 }
 
+.donate {
+  padding: 60px 0;
+}
+
+.donation-card {
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.donation-card .card-title {
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+.donation-card .card-text {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
 .upn-logo {
     margin-right: 50px; 
     margin-bottom: 100px;
     margin-top: 150px;
     display: block; 
+}
+
+footer {
+  background-color: #0b8c17;
 }
